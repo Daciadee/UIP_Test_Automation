@@ -1,0 +1,8 @@
+
+=squid:S1068 "&Remove this unused "fu" private field.(°ßÇ
+?squid:S11487"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+4squid:S2119@"Save and re-use this "Random".(¼İÅf
+gsquid:UselessImportCheck"CRemove this unused import 'javax.servlet.http.HttpServletResponse'.(Á¨ïë
+Tsquid:UselessImportCheck"0Remove this unused import 'java.nio.file.Files'.(‚ƒü
+Tsquid:UselessImportCheck"0Remove this unused import 'java.nio.file.Paths'.(áè°¯
+gsquid:CommentedOutCodeLine2"<This block of commented-out lines of code should be removed.(Š§ŞÇùÿÿÿÿ

@@ -1,0 +1,31 @@
+
+F
+java:S1148ц"#Use a logger to log this exception.(А╔╘Е¤    8╪бл╣и.
+F
+java:S1148└"#Use a logger to log this exception.(А╔╘Е¤    8╪бл╣и.
+I
+java:S1172─"&Remove these unused method parameters.(╧ь┘Ч¤    8╪бл╣и.
+[	java:S106Т"9Replace this use of System.out or System.err by a logger.(Нр°ж№    8╪бл╣и.
+C	java:S131`""Add a default case to this switch.(еОУц¤    8╪бл╣и.
+F
+java:S1148═"#Use a logger to log this exception.(А╔╘Е¤    8╪бл╣и.
+E
+java:S1148r"#Use a logger to log this exception.(А╔╘Е¤    8╪бл╣и.
+F
+java:S1148Я"#Use a logger to log this exception.(А╔╘Е¤    8╪бл╣и.
+M
+java:S1128"+Remove this unused import 'java.util.List'.(╒ы▒─°    8╪бл╣и.
+X	java:S125V"<This block of commented-out lines of code should be removed.(Сйфз8╪бл╣и.
+F
+java:S1148╪"#Use a logger to log this exception.(А╔╘Е¤    8╪бл╣и.
+^	java:S125Л"<This block of commented-out lines of code should be removed.(иўїХ¤    8╪бл╣и.
+F
+java:S1148ї"#Use a logger to log this exception.(А╔╘Е¤    8╪бл╣и.
+F
+java:S1148А"#Use a logger to log this exception.(А╔╘Е¤    8╪бл╣и.
+b
+java:S1128"ERemove this unused import 'org.openqa.selenium.interactions.Actions'.(┼╤Р├8╪бл╣и.
+X
+java:S1141О"5Extract this nested try block into a separate method.(б╗в№∙    8╪бл╣и.
+X
+java:S1141ю"5Extract this nested try block into a separate method.(б╗в№∙    8╪бл╣и.

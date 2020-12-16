@@ -1,0 +1,31 @@
+
+y
+java:S3252¨"VUse static access with "org.openqa.selenium.remote.CapabilityType" for "BROWSER_NAME".(²ÁÓÖþÿÿÿÿ8Ö¡«¹¨.
+b
+java:S1128"@Remove this unused import 'org.openqa.selenium.support.ui.Wait'.(‹ÇÓ™ùÿÿÿÿ8Ö¡«¹¨.
+t
+java:S1104$"RMake driver a static final constant or non-public and provide accessors if needed.(ÔèË©úÿÿÿÿ8Ö¡«¹¨.
+^	java:S125Æ"<This block of commented-out lines of code should be removed.(ñüÂ÷ÿÿÿÿÿ8Ö¡«¹¨.
+U	java:S106y"9Replace this use of System.out or System.err by a logger.(Ê®Éý8Ö¡«¹¨.
+Z	java:S106S"9Replace this use of System.out or System.err by a logger.(¦‚Îõüÿÿÿÿ8Ö¡«¹¨.
+z
+java:S3252¥"WUse static access with "org.openqa.selenium.remote.CapabilityType" for "PLATFORM_NAME".(ëù±ýÿÿÿÿ8Ö¡«¹¨.
+M
+java:S3740«"/Provide the parametrized type for this generic.(ä¨ê¼8®Š¸­².
+U	java:S106j"9Replace this use of System.out or System.err by a logger.(á³“Ö8Ö¡«¹¨.
+V	java:S106…"9Replace this use of System.out or System.err by a logger.(„º°ß8Ö¡«¹¨.
+V	java:S106°"9Replace this use of System.out or System.err by a logger.(š’íû8Ö¡«¹¨.
+]	java:S125e"<This block of commented-out lines of code should be removed.(Ž›€æþÿÿÿÿ8Ö¡«¹¨.
+W
+java:S1128":Remove this unused import 'java.util.concurrent.TimeUnit'.(Æ™þ8Ö¡«¹¨.
+U	java:S106R"9Replace this use of System.out or System.err by a logger.(¥¹æŸ8Ö¡«¹¨.
+Z	java:S106k"9Replace this use of System.out or System.err by a logger.(èÀÇ²þÿÿÿÿ8Ö¡«¹¨.
+^	java:S125Ã"<This block of commented-out lines of code should be removed.(ßÍçõþÿÿÿÿ8Ö¡«¹¨.
+[	java:S106„"9Replace this use of System.out or System.err by a logger.(š×ú¾øÿÿÿÿ8Ö¡«¹¨.
+^	java:S125¾"<This block of commented-out lines of code should be removed.(ÉÂåñýÿÿÿÿ8Ö¡«¹¨.
+[	java:S106±"9Replace this use of System.out or System.err by a logger.(¦‚Îõüÿÿÿÿ8Ö¡«¹¨.
+V	java:S106•"9Replace this use of System.out or System.err by a logger.(ô™å8Ö¡«¹¨.
+c
+java:S1128"FRemove this unused import 'org.openqa.selenium.support.ui.FluentWait'.(Æ÷·Ü8Ö¡«¹¨.
+U	java:S106x"9Replace this use of System.out or System.err by a logger.(¶»ó€8Ö¡«¹¨.
+U	java:S106–"9Replace this use of System.out or System.err by a logger.(âÚ8Ö¡«¹¨.

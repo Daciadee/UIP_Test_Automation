@@ -1,0 +1,30 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="Dashboard" verbose="1">
+    <test name="Dashboard Tests" preserve-order="true">
+        <classes>
+            <class name="tests.pages.DashboardPageTests">
+                <methods>
+                    <include name="signHonorStatementTest" />
+
+                    <!--<include name="payForKnowledgeExamWithCreditCardTest" />-->
+                    <!--<include name="payForKnowledgeExamWithVoucherTest" />-->
+                    <include name="payForKnowledgeExamWithThirdPartyTest" />
+
+                    <include name="scheduleKnowledgeExamTest" />
+                    <include name="newAlertGeneratedTest" />
+                    <include name="completeKnowledgeExamTest" />
+                    <include name="signPerformanceAgreementTest" />
+
+                    <!--<include name="payForPerformanceExamWithCreditCardTest" />-->
+                    <!--<include name="payForPerformanceExamWithVoucherTest" />-->
+                    <include name="payForPerformanceExamWithThirdPartyTest" />
+
+                    <include name="schedulePerformanceExamTest" />
+                    <include name="completePerformanceExamTest" />
+                    <include name="signContractTest" />
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>

@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="UIP Website Tests" verbose="1">
+
+    <parameter name="browser" value="opera" />
+
+    <suite-files>
+        <suite-file path="../certifications/professionalFull.xml"/>
+    </suite-files>
+
+</suite>

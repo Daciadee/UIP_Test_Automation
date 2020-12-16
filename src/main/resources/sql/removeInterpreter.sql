@@ -1,0 +1,1 @@
+DELETE FROM interpreter WHERE id = (SELECT id FROM interpreter WHERE email = 'uiptester23@yahoo.com')

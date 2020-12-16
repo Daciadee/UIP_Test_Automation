@@ -1,0 +1,86 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<!--This test file will not run all these tests in parallel successfully unless a different user account is used for each browser-->
+<suite name="Parallel Browser Tests" verbose="1" parallel="tests" thread-count="4">
+
+    <test name="Chrome Test">
+        <parameter name="browser" value="chrome" />
+        <classes>
+            <class name="tests.pages.DashboardPageTests">
+                <methods>
+                    <include name="signHonorStatementTest" />
+                    <include name="payForKnowledgeExamWithThirdPartyTest" />
+                    <include name="scheduleKnowledgeExamTest" />
+                    <include name="newAlertGeneratedTest" />
+                    <include name="completeKnowledgeExamTest" />
+                    <include name="signPerformanceAgreementTest" />
+                    <include name="payForPerformanceExamWithThirdPartyTest" />
+                    <include name="schedulePerformanceExamTest" />
+                    <include name="completePerformanceExamTest" />
+                    <include name="signContractTest" />
+                </methods>
+            </class>
+        </classes>
+    </test>
+
+    <test name="Firefox Test">
+        <parameter name="browser" value="firefox" />
+        <classes>
+            <class name="tests.pages.DashboardPageTests">
+                <methods>
+                    <include name="signHonorStatementTest" />
+                    <include name="payForKnowledgeExamWithThirdPartyTest" />
+                    <include name="scheduleKnowledgeExamTest" />
+                    <include name="newAlertGeneratedTest" />
+                    <include name="completeKnowledgeExamTest" />
+                    <include name="signPerformanceAgreementTest" />
+                    <include name="payForPerformanceExamWithThirdPartyTest" />
+                    <include name="schedulePerformanceExamTest" />
+                    <include name="completePerformanceExamTest" />
+                    <include name="signContractTest" />
+                </methods>
+            </class>
+        </classes>
+    </test>
+
+    <test name="Edge Test">
+        <parameter name="broswer" value="edge" />
+        <classes>
+            <class name="tests.pages.DashboardPageTests">
+                <methods>
+                    <include name="signHonorStatementTest" />
+                    <include name="payForKnowledgeExamWithThirdPartyTest" />
+                    <include name="scheduleKnowledgeExamTest" />
+                    <include name="newAlertGeneratedTest" />
+                    <include name="completeKnowledgeExamTest" />
+                    <include name="signPerformanceAgreementTest" />
+                    <include name="payForPerformanceExamWithThirdPartyTest" />
+                    <include name="schedulePerformanceExamTest" />
+                    <include name="completePerformanceExamTest" />
+                    <include name="signContractTest" />
+                </methods>
+            </class>
+        </classes>
+    </test>
+
+    <test name="IE Test">
+        <parameter name="browser" value="ie" />
+        <classes>
+            <class name="tests.pages.DashboardPageTests">
+                <methods>
+                    <include name="signHonorStatementTest" />
+                    <include name="payForKnowledgeExamWithThirdPartyTest" />
+                    <include name="scheduleKnowledgeExamTest" />
+                    <include name="newAlertGeneratedTest" />
+                    <include name="completeKnowledgeExamTest" />
+                    <include name="signPerformanceAgreementTest" />
+                    <include name="payForPerformanceExamWithThirdPartyTest" />
+                    <include name="schedulePerformanceExamTest" />
+                    <include name="completePerformanceExamTest" />
+                    <include name="signContractTest" />
+                </methods>
+            </class>
+        </classes>
+    </test>
+
+</suite>

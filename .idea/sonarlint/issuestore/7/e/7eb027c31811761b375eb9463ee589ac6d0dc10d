@@ -1,0 +1,15 @@
+
+w
+java:S30080"URename this field "LOGIN_TYPE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿ¨ƒ×üÿÿÿÿ8Ø¡«¹¨.
+W
+java:S1118":Add a private constructor to hide the implicit public one.(Ò©–½8Ø¡«¹¨.
+x
+java:S1104"VMake USER_EMAIL a static final constant or non-public and provide accessors if needed.(“åóÕúÿÿÿÿ8Ø¡«¹¨.
+w
+java:S3008"URename this field "USER_EMAIL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“åóÕúÿÿÿÿ8Ø¡«¹¨.
+R
+java:S1444"0Make this "public static USER_EMAIL" field final(“åóÕúÿÿÿÿ8Ø¡«¹¨.
+R
+java:S14440"0Make this "public static LOGIN_TYPE" field final(ÿ¨ƒ×üÿÿÿÿ8Ø¡«¹¨.
+x
+java:S11040"VMake LOGIN_TYPE a static final constant or non-public and provide accessors if needed.(ÿ¨ƒ×üÿÿÿÿ8Ø¡«¹¨.

@@ -1,0 +1,16 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="UIP Website Tests" verbose="1">
+
+    <parameter name="browser" value="ie" />
+
+    <suite-files>
+        <suite-file path="../certifications/professionalFull.xml"/>
+    </suite-files>
+
+</suite>
+
+<!--To fix the IE Driver error, do the following: -->
+<!-- - Open the registry with regedit -->
+<!-- - Navigate to the HKEY_CURRENT_USER\Software\Microsoft\Internet Explorer\Main folder -->
+<!-- - Add a new DWORD in the folder named TabProcGrowth and give it a value of 0 -->

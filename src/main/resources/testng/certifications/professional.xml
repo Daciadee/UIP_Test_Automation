@@ -1,0 +1,27 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="Professional" verbose="1" preserve-order="true">
+    <test name="Professional Exam Tests" preserve-order="true">
+        <classes>
+            <class name="tests.certifications.ProfessionalCertificationTests">
+                <methods>
+                    <include name="logIntoUIP"/>
+                    <include name="registerUser"/>
+                    <include name="watchOrientationVideo"/>
+                    <include name="signHonorStatementTest"/>
+                    <include name="payForKnowledgeExam"/>
+                    <include name="scheduleKnowledgeExamTest"/>
+                    <include name="checkInInterpreterForKnowledgeExamTest"/>
+                    <include name="takeKnowledgeExamTest"/>
+                    <include name="signPerformanceAgreementTest"/>
+                    <include name="payForPerformanceExam"/>
+                    <include name="schedulePerformanceExamTest"/>
+                    <include name="assignVideosAndRatersToInterpreterTest"/>
+                    <include name="rateAllPerformanceExamsTest"/>
+<!--                    <include name="confirmPassingPerformanceExamTest"/>-->
+<!--                    <include name="signContractTest" />-->
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>

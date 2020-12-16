@@ -1,0 +1,15 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="CEH" verbose="1" preserve-order="true">
+    <test name="CEH Tests" preserve-order="true">
+        <classes>
+            <class name="tests.certifications.CEHTests">
+                <methods>
+                    <include name="setCycleAndExpirationDates"/>
+                    <include name="openCehTabTest"/>
+                    <include name="uploadCehDocumentationAndDenyTest"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>

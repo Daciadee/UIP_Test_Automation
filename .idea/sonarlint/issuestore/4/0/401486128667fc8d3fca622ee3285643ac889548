@@ -1,0 +1,35 @@
+
+P
+squid:S106ú"9Replace this use of System.out or System.err by a logger.(ö²Ð»
+P
+squid:S106÷"9Replace this use of System.out or System.err by a logger.(Æ½¡˜
+Bsquid:S1068"+Remove this unused "adminPI" private field.(€Â©ö
+@squid:S1148¢"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+hsquid:S1301Ë"KReplace this "switch" statement by "if" statements to increase readability.(•¦“þÿÿÿÿ
+@squid:S1148µ"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+@squid:S1148×"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+Vsquid:S1155ö">Use isEmpty() to check whether the collection is empty or not.(¾†ëÔ
+@squid:S1148ä"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+@squid:S1148ˆ"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+@squid:S1148¬"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+@squid:S1148«"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+@squid:S1148Ñ"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+=squid:S1068!"&Remove this unused "fu" private field.(ž°ßÇ
+@squid:S1148è"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+Usquid:S1155Û">Use isEmpty() to check whether the collection is empty or not.(â®›]
+@squid:S1148µ"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+Lsquid:S1172Ý"/Remove this unused method parameter "certType".(ëÔ¬Àùÿÿÿÿ
+@squid:S1148¾"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+V"squid:SwitchLastCaseIsDefaultCheckË""Add a default case to this switch.(•¦“þÿÿÿÿ
+@squid:S1148¿"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+@squid:S1148‘"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+_squid:S1126¤"BReplace this if-then-else statement by a single method invocation.(Ï¢Ò¥úÿÿÿÿ
+U
+squid:S106ö"9Replace this use of System.out or System.err by a logger.(‡ð¥Œþÿÿÿÿ
+@squid:S1148ù"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+@squid:S1148ï"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+@squid:S1148È"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+_squid:S1126“"BReplace this if-then-else statement by a single method invocation.(Ï¢Ò¥úÿÿÿÿ
+ssquid:UselessImportCheck"ORemove this unused import 'org.openqa.selenium.StaleElementReferenceException'.(õÇæã
+@squid:S1148™"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+[squid:S1155î">Use isEmpty() to check whether the collection is empty or not.(‘Õà‘úÿÿÿÿ

@@ -1,0 +1,6 @@
+
+Usquid:S34008"9Remove this method and declare a constant for this value.(ö¬¡¯øÿÿÿÿ
+Fsquid:S1068"*Remove this unused "driver" private field.(š…ŒÅøÿÿÿÿ
+Usquid:S2130E"9Use "Integer.parseInt" for this string-to-int conversion.(Åİùÿÿÿÿ
+bsquid:CommentedOutCodeLine7"<This block of commented-out lines of code should be removed.(ßõİ³
+Psquid:S2130H"9Use "Integer.parseInt" for this string-to-int conversion.(åµ–

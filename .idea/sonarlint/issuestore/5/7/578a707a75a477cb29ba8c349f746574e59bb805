@@ -1,0 +1,14 @@
+
+?squid:S1148I"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+@squid:S1148…"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+?squid:S1148b"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+?squid:S1148m"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+Osquid:S4719P"9Replace charset name argument with StandardCharsets.UTF_8(…á
+?squid:S1148z"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+Asquid:S1481:"+Remove this unused "create" local variable.(ïã›
+csquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(†€ñÏúÿÿÿÿ
+asquid:S2095u"EUse try-with-resources or close this "Scanner" in a "finally" clause.(Å–¢»ùÿÿÿÿ
+]squid:UselessImportCheck"4Remove this unused import 'java.util.regex.Pattern'.(Ã•…Äúÿÿÿÿ
+W
+squid:S899:"BDo something with the "boolean" value returned by "createNewFile".(ïã›
+Xsquid:UselessImportCheck"4Remove this unused import 'java.util.regex.Matcher'.(ëÅ›ã

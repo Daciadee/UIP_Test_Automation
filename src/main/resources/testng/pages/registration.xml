@@ -1,0 +1,14 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="Registration" verbose="1">
+    <test name="Registration Tests" preserve-order="true">
+        <classes>
+            <class name="tests.pages.RegistrationPageTests">
+                <methods>
+                    <!--<include name="registerMultipleInterpretersTest" />-->
+                    <include name="registerSingleInterpreterTest" />
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
